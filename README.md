@@ -13,6 +13,6 @@ WEP (*Wired Equivalent Privacy Owner*) is the privacy protocol specified in IEEE
 
 ## License
 
-This project is licensed under the MIT License.
+Distributed under the MIT License. See LICENSE for more information.
 
 
